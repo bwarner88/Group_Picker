@@ -1,0 +1,15 @@
+#mainContent {
+    margin: 10%;
+}
+
+#submitBtn {
+    display: block;
+    margin-top: 5%;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
+body {
+    background-image: url("https://media.giphy.com/media/gCZ9N4IMDPaoM/giphy.gif");
+}
